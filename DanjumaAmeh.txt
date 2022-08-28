@@ -7,3 +7,5 @@ This is a test text message
 I am happy to learn GIT
 
 This is another line of text
+
+adding a line in Git now
